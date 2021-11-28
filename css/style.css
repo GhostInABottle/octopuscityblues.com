@@ -23,6 +23,7 @@ body{
 .header {
     text-align: center;
     font-size: 0;
+    direction: rtl;
 }
 .wrapper{
     background-color:#010500;
