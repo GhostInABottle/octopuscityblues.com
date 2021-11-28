@@ -23,7 +23,10 @@ body{
 .header {
     text-align: center;
     font-size: 0;
-    direction: rtl;
+}
+.header img {
+    display: inline-block;
+    max-width: 100%;
 }
 .wrapper{
     background-color:#010500;
