@@ -1,4 +1,4 @@
-body{
+body {
     color:#222;
     margin:0;
     font-size:16px;
@@ -28,8 +28,12 @@ body{
     display: inline-block;
     max-width: 100%;
 }
-.wrapper{
+.wrapper {
     background-color:#010500;
+    background-image:url("../images/bg.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
 }
 .main_column{
     color:#a1ff70;
@@ -63,6 +67,10 @@ body{
 }
 .main_content div {
     padding: 10px;
+}
+.main_content .formatted_description {
+    padding-left: 2em;
+    padding-right: 2em;
 }
 .social {
     width: 100%;
