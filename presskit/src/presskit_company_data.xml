@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>   
+    <title>Ghost in a Bottle</title>
+    <founding-date>Augustus 10, 2017</founding-date>
+    <website>https://ghostinabottle.com/</website>
+    <based-in>Amsterdam</based-in>
+
+    <press-contact>contact@ghostinabottle.com</press-contact>
+    <address>
+        <line>Amsterdam</line>
+        <line>The Netherlands</line>
+    </address>
+
+    <socials>
+        <social>
+            <name>Twitter (Ghost in a Bottle)</name>
+            <link>https://twitter.com/ghostinabottle</link>
+        </social>
+        <social>
+            <name>Twitter (Octopus City Blues)</name>
+            <link>https://twitter.com/octocityblues</link>
+        </social>
+        <social>
+            <name>Mastodon (Ghost in a Bottle)</name>
+            <link>https://mastodon.gamedev.place/@GhostInABottle</link>
+        </social>
+        <social>
+            <name>Mastodon (Octopus City Blues)</name>
+            <link>https://mastodon.gamedev.place/@OctopusCityBlues</link>
+        </social>
+        <social>
+            <name>Facebook</name>
+            <link>https://facebook.com/OctopusCityBlues</link>
+        </social>
+        <social>
+            <name>YouTube</name>
+            <link>https://www.youtube.com/@Ghost-In-A-Bottle</link>
+        </social>
+        <social>
+            <name>Instagram</name>
+            <link>https://www.instagram.com/octopuscityblues/</link>
+        </social>
+        <social>
+            <name>Tumblr</name>
+            <link>https://octopuscityblues.tumblr.com</link>
+        </social>
+        <social>
+            <name>Discord</name>
+            <link>https://discord.gg/HHqnKdbD87</link>
+        </social>
+    </socials>
+
+    <description>   
+        Ghost in a Bottle: makers of Octopus City and Neon Empire simulation software.
+    </description>
+
+    <history>
+        Ghost in a Bottle is a small indie game development studio primarily based in Amsterdam. A collaboration between Californian artist Karl Crawford and Palestinian-Dutch writer/programmer Firas Assaad. The studio's primary projects are Octopus City Blues and Rainbow Nightmare.
+    </history>
+
+    <press-can-request-copy>TRUE</press-can-request-copy>
+    <monetization-permission>monetize</monetization-permission>     
+
+    <credits>
+        <credit>
+            <person>Firas Assad</person>
+            <website>https://www.firasassaad.com</website>
+            <role>Corporate Tool</role>
+        </credit>
+        <credit>
+            <person>Karl Crawford</person>
+            <website>https://twitter.com/Audio_Mew</website>
+            <role>Corporate Mascot</role>
+        </credit>
+        <credit>
+            <person>Marina Navarro Travesset</person>
+            <website>https://twitter.com/MNT1986</website>
+            <role>Tentacle Artist</role>
+        </credit>
+        <credit>
+            <person>Aaron Eason</person>
+            <website>https://soundcloud.com/aaroneason</website>
+            <role>Octo-tune Composer</role>
+        </credit>
+    </credits>
+
+    <contacts>
+        <contact>
+            <name>Inquiries</name>
+            <mail>contact@ghostinabottle.com</mail>
+        </contact>
+        <contact>
+            <name>Web</name>
+            <link>https://ghostinabottle.com</link>
+        </contact>
+    </contacts>
+</company>

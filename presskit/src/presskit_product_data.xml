@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+    <title>Octopus City Blues</title>
+    <release-dates>
+        <release-date>2024</release-date>
+    </release-dates>
+    <website>https://octopuscityblues.com</website>
+
+    <press-copy-request>mailto:contact@ghostinabottle.com</press-copy-request>
+
+    <platforms>
+        <platform>
+            <name>Steam</name>
+            <link>https://store.steampowered.com/app/1192230/Octopus_City_Blues/</link>
+        </platform>
+        <platform>
+            <name>itch.io</name>
+            <link>https://ghost-in-a-bottle.itch.io/octopus-city-blues</link>
+        </platform>
+    </platforms>
+
+    <widgets>
+        <steam>1192230</steam>
+        <itch>12614</itch>
+    </widgets>
+
+    <prices>
+        <price>
+        <currency></currency>
+        <value>TBA</value>
+        </price>
+    </prices>
+
+    <description>
+        A dark metropolis built on top of a dying octopus, a cowardly tentacle trimmer dreaming of dung beetles, and a surreal adventure about everything and nothing.
+    </description>
+
+    <histories>
+        <history>
+            <text>
+                Octopus City Blues is a story-driven adventure game. It's the tale of cowardly tentacle trimmer Kaf Kafkaryan, who lives in a city built on an octopus. Plagued by recurring nightmares, Kaf stumbles upon dark secrets as the line between dream and reality begins to blur.
+            </text>
+        </history>
+        <history>
+            <text>
+                With a unique pixel art aesthetic and a unique concept, Octopus City Blues blends various genres—placing emphasis on exploration, real-time daily simulation, and complex encounters that encourage multiple playthroughs.
+            </text>
+        </history>
+        <history>
+            <text>
+                Originally crowd-funded on Kickstarter in 2013, the project received additional funding from the Midgame Fund (https://midgame.fund/) in 2021. Octopus City Blues is scheduled for release on Windows, MacOS and Linux in 2024.
+            </text>
+        </history>
+    </histories>
+
+    <features>
+        <feature>
+            Talk to people, make choices, and explore a unique world.
+        </feature>
+        <feature>
+            Interact with over unique 60 characters, each with their daily schedules and secrets.
+        </feature>
+        <feature>
+            Learn and spread gossip to unlock new story paths.
+        </feature>
+        <feature>
+            Manage your stress and reputation in tense encounters.
+        </feature>
+    </features>
+
+    <trailers>
+        <trailer>
+            <name>Octopus City Blues Trailer</name>
+            <youtube>StQBI-tITPo</youtube>
+        </trailer>
+        <trailer>
+            <name>Octopus City Blues Teaser</name>
+            <youtube>S0qtMezQt08</youtube>
+        </trailer>
+    </trailers>
+
+    <awards>
+        <award>
+            <description>Best Art Direction</description>
+            <info>Dubai World Game Expo 2015</info>
+        </award>
+    </awards>
+
+    <credits>
+        <credit>
+            <person>Firas Assad</person>
+            <website>https://www.firasassaad.com</website>
+            <role>Designer, Programmer, Writer</role>
+        </credit>
+        <credit>
+            <person>Marina Navarro Travesset</person>
+            <website>https://twitter.com/MNT1986</website>
+            <role>Artist, Designer</role>
+        </credit>
+        <credit>
+            <person>Aaron Eason</person>
+            <website>https://soundcloud.com/aaroneason</website>
+            <role>Composer</role>
+        </credit>
+        <credit>
+            <person>Karl Crawford</person>
+            <website>https://twitter.com/Audio_Mew</website>
+            <role>Concept Artist, Designer</role>
+        </credit>
+        <credit>
+            <person>Julia Seeholzer</person>
+            <website>https://juliaseeholzer.com/</website>
+            <role>English Language Editing</role>
+        </credit>
+        <credit>
+            <person>Kyle Peterson</person>
+            <website>https://shamfoo.com/</website>
+            <role>Key Art</role>
+        </credit>
+        <credit>
+            <person>Francis Coulombe</person>
+            <website>https://linktr.ee/frankiepixel</website>
+            <role>Additional Art</role>
+        </credit>
+        <credit>
+            <person>Sabrina Cámara</person>
+            <website>http://www.khioora.com/</website>
+            <role>Additional Art</role>
+        </credit>
+        <credit>
+            <person>Jacob Janerka</person>
+            <website>https://www.jacobjanerka.com/</website>
+            <role>Additional Art</role>
+        </credit>
+        <credit>
+            <person>7gobu</person>
+            <website>https://www.7gobu.com/</website>
+            <role>Additional Art</role>
+        </credit>
+        <credit>
+            <person>Reko Tiira</person>
+            <website>https://fi.linkedin.com/in/rekotiira</website>
+            <role>Coding (XD Framework)</role>
+        </credit>
+        <credit>
+            <person>Olav Verberne</person>
+            <website>https://nl.linkedin.com/in/olav-verberne-512b6a5</website>
+            <role>Accounting (LawsLinked)</role>
+        </credit>
+        <credit>
+            <person>Eric Hamaker</person>
+            <website>https://amsterdambookkeeper.nl/</website>
+            <role>Accounting (Amsterdam Bookkeeper)</role>
+        </credit>
+    </credits>
+
+    <contacts>
+        <contact>
+            <name>Firas Assaad</name>
+            <mail>contact@ghostinabottle.com</mail>
+        </contact>
+    </contacts>
+</product>
+
